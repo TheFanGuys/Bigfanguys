@@ -481,7 +481,13 @@ body.res-mode #home,body.res-mode footer,body.res-mode #blogView{display:none}
 .ind-meta{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:0 18px 20px}
 .ind-meta .k{display:block;font-family:Anton,Saira,sans-serif;font-size:1.5rem;letter-spacing:.5px;line-height:1.04;color:#fff;text-transform:uppercase}
 .ind-meta .go{display:inline-block;margin-top:9px;color:#52b8ff;font-weight:800;font-size:.78rem;letter-spacing:1.5px;text-transform:uppercase}
-.svc-link{display:inline-block;margin-top:13px;color:#52b8ff;font-weight:800;font-size:.76rem;letter-spacing:1.2px;text-transform:uppercase;text-decoration:none}.svc-link:hover{text-decoration:underline}</style>
+.svc-link{display:inline-block;margin-top:13px;color:#52b8ff;font-weight:800;font-size:.76rem;letter-spacing:1.2px;text-transform:uppercase;text-decoration:none}.svc-link:hover{text-decoration:underline}#coverage .cov-wrap{display:grid;gap:30px;grid-template-columns:1fr;align-items:center}
+@media(min-width:820px){#coverage .cov-wrap{grid-template-columns:300px 1fr}}
+#coverage .mascot{width:100%;max-width:270px;display:block;margin:0 auto;filter:drop-shadow(0 14px 26px rgba(0,0,0,.55))}
+#coverage h2{font-family:Anton,Saira,sans-serif;text-transform:uppercase;font-size:clamp(1.6rem,4.5vw,2.1rem);line-height:1;margin:.18em 0 .45em;color:#fff}
+#coverage p{color:#aeb8c4;line-height:1.66;margin:0 0 18px;max-width:640px}
+#coverage .coverage-map{width:100%;display:block;border-radius:14px;border:1px solid rgba(255,255,255,.08)}
+</style>
 </head>
 <body class="locked">
 
@@ -702,6 +708,18 @@ body.res-mode #home,body.res-mode footer,body.res-mode #blogView{display:none}
 </section>
 
 <!-- CONTACT -->
+<section class="block" id="coverage"><div class="wrap">
+  <div class="cov-wrap">
+    <img class="mascot reveal" src="assets/mascot.png" alt="The Fan Guys mascot" loading="lazy">
+    <div class="reveal">
+      <span class="eyebrow">Coast to Coast</span>
+      <h2>We Cover the Whole Country</h2>
+      <p>We install and service big HVLS fans in all 50 states &mdash; warehouses, hangars, plants, barns, and government facilities. Wherever your building is, we'll get there, get it hung right, and be there to service it for years.</p>
+      <img class="coverage-map" src="assets/coverage-map.jpg" alt="Map of Fan Guys HVLS fan installation and service coverage across the United States" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
 <section class="block contact" id="contact">
   <div class="wrap contact-grid">
     <div>
@@ -1155,7 +1173,7 @@ const POSTS = [
    ENGINE — you generally don't need to touch anything below here.
    =================================================================== */
 /* gallery now lives on the industry pages */
-const HERO = ["assets/hero-1.jpg", "assets/hero-2.jpg", "assets/hero-3.jpg", "assets/hero-4.jpg"];
+const HERO = ["assets/hero-1.jpeg", "assets/hero-2.jpeg", "assets/hero-3.jpeg", "assets/hero-4.jpeg"];
 
 /* ---- footer year ---- */
 document.querySelectorAll(".yr").forEach(e=>e.textContent=new Date().getFullYear());
