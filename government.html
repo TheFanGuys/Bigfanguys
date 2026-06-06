@@ -484,12 +484,14 @@ body.res-mode #home,body.res-mode footer,body.res-mode #blogView{display:none}
 </style>
 
 <style>
+html,body{overflow-x:hidden;max-width:100%}
 .ind-hero{padding:118px 0 26px}
 .ind-hero h1{font-family:Anton,Saira,sans-serif;font-size:clamp(2.1rem,6.5vw,4rem);line-height:.98;text-transform:uppercase;margin:.18em 0 .25em;color:#fff}
 .ind-lead{max-width:780px;color:#aeb8c4;font-size:1.06rem;line-height:1.62}
 .show{margin-top:6px}
 .show-stage{position:relative;border-radius:14px;overflow:hidden;background:#0c0f14;border:1px solid rgba(255,255,255,.08);aspect-ratio:16/10}
-.show-stage img{width:100%;height:100%;object-fit:cover;display:block}
+.show-stage #stage{position:absolute;inset:0}
+.show-stage img{width:100%;height:100%;object-fit:contain;display:block}
 .show-nav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:48px;height:48px;border:none;border-radius:50%;background:rgba(6,8,11,.6);color:#fff;font-size:1.7rem;line-height:1;cursor:pointer}
 .show-nav:hover{background:#1f9cf0}.show-nav.prev{left:12px}.show-nav.next{right:12px}
 .show-count{position:absolute;bottom:12px;right:14px;z-index:3;background:rgba(6,8,11,.62);color:#cfd8e3;font-size:.78rem;letter-spacing:1px;padding:5px 11px;border-radius:20px}
