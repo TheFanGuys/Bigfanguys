@@ -36,4 +36,8 @@ jobs:
           git add -A hvls-360
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git -c user.name="hvls-360-sync" -c user.email="actions@github.com" commit -m "Sync HVLS 360 magazine"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase -q origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
