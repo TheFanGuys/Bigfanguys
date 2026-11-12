@@ -1,0 +1,39 @@
+name: Sync HVLS 360
+# Copies the public HVLS 360 magazine (TheFanGuys/HVLS-360) into /hvls-360
+# so it is served at https://bigfanguys.com/hvls-360/.
+on:
+  schedule:
+    - cron: '17 * * * *'   # every hour
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sync-hvls-360
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: TheFanGuys/HVLS-360
+          ref: main
+          path: .hvls-src
+      - name: Copy the public magazine
+        run: |
+          set -e
+          rm -rf hvls-360
+          mkdir -p hvls-360/editorial
+          cp .hvls-src/index.html .hvls-src/rss.xml .hvls-src/sitemap.xml hvls-360/
+          cp -r .hvls-src/articles .hvls-src/assets .hvls-src/resources hvls-360/
+          cp -r .hvls-src/editorial/media hvls-360/editorial/
+          rm -f hvls-360/articles/*.md
+          rm -rf .hvls-src
+      - name: Commit if anything changed
+        run: |
+          git add -A hvls-360
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git -c user.name="hvls-360-sync" -c user.email="actions@github.com" commit -m "Sync HVLS 360 magazine"
+          git push

@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "purpose": "Magazine thumbnails and review article headers; not evidence of model performance or study participation",
+  "rights_basis": "Publisher-authorized Big Fan Guys imagery and original HVLS 360 diagrams",
+  "items": {
+    "hvls-air-movement-vs-ventilation": {
+      "file": "editorial/media/publisher/bfg-field/warehouse-hvls.webp",
+      "alt": "Overhead fan above warehouse racking",
+      "caption": "Overhead fan above warehouse racking. Big Fan Guys field photograph; illustrative installation context.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "cover",
+          "position": "50% 80%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card crop retains central motor/assembly and warehouse racking; peripheral blade tips can leave the card. Complete source frame retained in article lead. Source itself is not a full-span blade photograph.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "abb-2026-ip66-vfd-field-report": {
+      "file": "editorial/media/original/vfd-compatibility-check.svg",
+      "alt": "Diagram of drive and fan compatibility checks",
+      "caption": "Drive-system illustration; not a photograph of an ABB product.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "cfei-vs-cfm-per-watt-field-guide": {
+      "file": "editorial/media/publisher/weekly/cfei-vs-cfm-per-watt-field-guide.webp",
+      "alt": "Several large overhead fans in an aircraft hangar",
+      "caption": "HVLS fans in an aircraft hangar. Big Fan Guys field photograph.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "greenheck-ds-series-2026-field-report": {
+      "file": "editorial/media/original/fan-system-documentation.svg",
+      "alt": "Fan system documentation diagram",
+      "caption": "System-documentation illustration; not a Greenheck product photograph.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "powerfoil6-field-brief": {
+      "file": "editorial/media/original/fan-system-documentation.svg",
+      "alt": "Fan system planning and documentation diagram",
+      "caption": "Installation-planning illustration; not a Powerfoil 6 product photograph.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "scissor-lift-planning-hvls-installations": {
+      "file": "editorial/media/original/scissor-lift-access-planning.svg",
+      "alt": "Scissor lift access planning illustration",
+      "caption": "Original illustration of installation access planning.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "vividair-gfy-ztech-taz-controls-field-guide": {
+      "file": "editorial/media/publisher/weekly/vividair-gfy-ztech-taz-controls-field-guide.webp",
+      "alt": "Row of wall-mounted Go Fan Yourself fan drives with disconnects and conduit",
+      "caption": "A wall of fan drives on a Big Fan Guys install.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "vividair-taz-72-field-guide": {
+      "file": "editorial/media/publisher/weekly/vividair-taz-72-field-guide.webp",
+      "alt": "72-inch TAZ directional fan hung on chains above a production floor",
+      "caption": "A 72-inch TAZ on a Big Fan Guys install.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      },
+      "body_images": [
+        {
+          "file": "editorial/media/publisher/taz-72/taz-72-field-03.webp",
+          "sha256": "2070b5bc45c474b067ea5c4436a77ec8b46bc3bebb235e3a340419e3c44d04e3",
+          "alt": "Front view of a chain-suspended black directional fan showing horizontal discharge louvers and a protective guard above a production floor.",
+          "caption": "Front view of the publisher-identified TAZ, showing discharge louvers, protective guard and chain suspension. Big Fan Guys field photograph.",
+          "credit": "Big Fan Guys",
+          "fit": "contain",
+          "after_paragraph_start": "The two Big Fan Guys installation photos",
+          "review": "editorial/media/CROP-REVIEW-2026-11-11.md"
+        }
+      ]
+    },
+    "industrial-fan-heat-study-what-was-measured": {
+      "file": "editorial/media/publisher/bfg-field/production-floor.webp",
+      "alt": "Overhead fans across an industrial production floor",
+      "caption": "Big Fan Guys production-floor photograph used for context; not a study site.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "ceiling-fans-hvac-air-distribution-research": {
+      "file": "editorial/media/publisher/bfg-field/hangar-airflow-context.webp",
+      "alt": "Several ceiling fans beneath a hangar roof, with access equipment below",
+      "caption": "Ceiling fans beneath a hangar roof. Big Fan Guys field photograph; not a photograph of the cited research facility.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      },
+      "source_library_file": "art-library/bigfanguys-com/aviation/IMG_6274.webp",
+      "source_url": "https://bigfanguys.com/gallery/aviation/IMG_6274.JPG",
+      "rights_basis": "Chris authorizes BigFanGuys.com images for HVLS 360 editorial use"
+    },
+    "scissor-lift-osha-classification": {
+      "file": "editorial/media/original/scissor-lift-access-planning.svg",
+      "alt": "Original scissor lift work-area planning diagram",
+      "caption": "Original scissor-lift planning illustration.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "fan-guarding-working-level": {
+      "file": "editorial/media/publisher/bfg-field/elevated-install.webp",
+      "alt": "Elevated view of a fan motor assembly and blades",
+      "caption": "Elevated view of a fan motor assembly and blades. Big Fan Guys field photograph; illustrative installation context.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-11",
+        "scope": "Card and article lead; full subject retained. Portrait photographs and diagrams use contain; article leads preserve the complete source frame.",
+        "reviewer": "Art & Media Director / assistant visual review",
+        "evidence": "editorial/media/CROP-REVIEW-2026-11-11.md"
+      }
+    },
+    "hvls-fans-sprinkler-interlock-field-guide": {
+      "file": "editorial/media/original/hvls-fans-sprinkler-interlock-field-guide.svg",
+      "alt": "Diagram of an HVLS fan centered between two sprinkler heads with 3 ft clearance below the deflectors, and a waterflow switch wired through a fire alarm control unit to the fan controller",
+      "caption": "Illustration of HVLS fan placement under sprinklers and the waterflow shutdown interlock.",
+      "kind": "diagram",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Card and article lead use contain; full source frame retained.",
+        "reviewer": "Weekly article worker",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "optidrive-e4-fan-service-guide": {
+      "file": "editorial/media/publisher/e4/optidrive-e4-illustration.webp",
+      "alt": "Purple Invertek Optidrive E4 drive on a workbench, showing its keypad buttons, status lights and terminal strips",
+      "caption": "Optidrive E4 illustration.",
+      "kind": "photo",
+      "credit": "HVLS 360°",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "one-big-fan-vs-small-fans": {
+      "file": "editorial/media/publisher/weekly/one-big-fan-vs-small-fans.webp",
+      "alt": "HVLS fan above a long warehouse aisle lined with shelving",
+      "caption": "An HVLS fan over warehouse shelving on a Big Fan Guys job.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "winter-destratification-hvls-fans": {
+      "file": "editorial/media/publisher/weekly/winter-destratification-hvls-fans.webp",
+      "alt": "HVLS fan hung just below a steel roof deck in a tall warehouse",
+      "caption": "An HVLS fan up under the roof deck, where winter heat collects. Big Fan Guys job.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    },
+    "annual-hvls-service-checklist": {
+      "file": "editorial/media/publisher/weekly/annual-hvls-service-checklist.webp",
+      "alt": "Close-up of an HVLS fan motor and gearbox mounted above the hub and blades",
+      "caption": "An HVLS fan motor and hub on a Big Fan Guys service call.",
+      "kind": "photo",
+      "credit": "Big Fan Guys",
+      "presentation": {
+        "card": {
+          "fit": "contain",
+          "position": "50% 50%"
+        },
+        "lead": {
+          "fit": "contain",
+          "position": "50% 50%"
+        }
+      },
+      "crop_review": {
+        "reviewed": "2026-11-12",
+        "scope": "Landscape lead; subject checked visually on phone and desktop widths.",
+        "reviewer": "Weekly article worker (Art desk)",
+        "evidence": "office/weekly_article.py"
+      }
+    }
+  }
+}

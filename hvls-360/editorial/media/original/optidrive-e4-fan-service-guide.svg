@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" font-family="Inter, Arial, Helvetica, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Optidrive E3 vs E4 depth</title>
+  <desc id="d">Listed IP20 depth: size 1, E3 123 mm, E4 136 mm; size 2, E3 150 mm, E4 168 mm. E4 at launch: sizes 1 and 2, 0.5 to 5 HP, IP20, single- or three-phase input, BACnet MS/TP built in, set up by USB-C, app or PC.</desc>
+  <rect width="1200" height="675" fill="#f4f5f2"/>
+  <text x="60" y="78" font-size="38" font-weight="700" fill="#122230">Same footprint, deeper box</text>
+  <text x="60" y="118" font-size="22" fill="#4a5a66">Listed IP20 depth in millimeters, Optidrive E3 vs E4</text>
+
+  <g font-size="22" fill="#122230">
+    <text x="60" y="210" font-weight="700">Frame size 1</text>
+    <text x="60" y="262">E3</text>
+    <rect x="130" y="238" width="492" height="36" fill="#9aa8b1"/>
+    <text x="638" y="264" font-weight="700">123 mm</text>
+    <text x="60" y="318">E4</text>
+    <rect x="130" y="294" width="544" height="36" fill="#1679b3"/>
+    <text x="690" y="320" font-weight="700">136 mm</text>
+
+    <text x="60" y="412" font-weight="700">Frame size 2</text>
+    <text x="60" y="464">E3</text>
+    <rect x="130" y="440" width="600" height="36" fill="#9aa8b1"/>
+    <text x="746" y="466" font-weight="700">150 mm</text>
+    <text x="60" y="520">E4</text>
+    <rect x="130" y="496" width="672" height="36" fill="#1679b3"/>
+    <text x="818" y="522" font-weight="700">168 mm</text>
+  </g>
+
+  <line x1="130" y1="228" x2="130" y2="340" stroke="#122230" stroke-width="2"/>
+  <line x1="130" y1="430" x2="130" y2="560" stroke="#122230" stroke-width="2"/>
+  <text x="130" y="590" font-size="18" fill="#4a5a66">Back plate</text>
+
+  <g font-size="20" fill="#122230">
+    <text x="960" y="236" font-weight="700">E4 at launch</text>
+    <text x="960" y="276">Sizes 1 and 2</text>
+    <text x="960" y="308">0.5 to 5 HP</text>
+    <text x="960" y="340">IP20</text>
+    <text x="960" y="372">1- or 3-phase input</text>
+    <text x="960" y="404">BACnet MS/TP built in</text>
+    <text x="960" y="436">Set up by USB-C,</text>
+    <text x="960" y="462">app or PC</text>
+  </g>
+  <line x1="935" y1="210" x2="935" y2="475" stroke="#f58220" stroke-width="4"/>
+
+  <text x="60" y="640" font-size="17" fill="#5d6e7a">Source: Invertek Drives E Series brochure, 2026. Bars drawn to scale.</text>
+</svg>
