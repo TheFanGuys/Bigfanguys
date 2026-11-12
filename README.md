@@ -1,6 +1,6 @@
 # BigFanGuys.com
 
-The Fan Guys company website: homepage plus industry pages (warehouse, aviation, manufacturing, agriculture, automotive, government) and service pages for installation, maintenance and repair. Photos live in the gallery folder.
+The Big Fan Guys company website: homepage plus industry pages (warehouse, aviation, manufacturing, agriculture, automotive, government) and service pages for installation, maintenance and repair. Photos live in the gallery folder.
 
 **Open it:** https://bigfanguys.com/
 
