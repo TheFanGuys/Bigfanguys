@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "last_successful_commit": "fad9718fc58313eb98e262517e53f43c955631ff",
+  "checked_at_utc": "2026-11-12T11:20:29.378063+00:00",
+  "outcome": "source_review_complete_responsive_acceptance_blocked",
+  "reviewed_image_hashes": {
+    "editorial/media/publisher/bfg-field/warehouse-hvls.webp": {
+      "sha256": "3258472f0f3d509d8cdef31f302348f7387901a57437aa07d3e9c3df747ebb95",
+      "git_blob_sha": "dae950271aaf3d928f854965e3669818296d951d"
+    },
+    "editorial/media/original/vfd-compatibility-check.svg": {
+      "sha256": "f6c52204f1998c18f17661bd880466c1a02e47fa9f4fd5bd34eac916b37cd2b3",
+      "git_blob_sha": "9dfb3d565971fa4ad580caff9b3d1db8d822b325"
+    },
+    "editorial/media/publisher/bfg-field/ceiling-fan.webp": {
+      "sha256": "77926e6cc63eae1431b593467677119be3a524173144269753821fc6bae9f1c8",
+      "git_blob_sha": "6d4d6c9497bea16af9abce589fc779818a11359b",
+      "suitability": "Founder-rejected for CFEI; previous crop hash retained as historical evidence, replacement deferred."
+    },
+    "editorial/media/original/fan-system-documentation.svg": {
+      "sha256": "b90d00aff24c441b50c771b7ea375ba88432e1c09e4caa126792448aa46e22f2",
+      "git_blob_sha": "452242de3754308411db3f11b6163f528521545a"
+    },
+    "editorial/media/original/scissor-lift-access-planning.svg": {
+      "sha256": "0b8b9aa036aaa496013a01d10b185d03fa5a60db21c49a7de79264c554a51036",
+      "git_blob_sha": "22c111f375d6eecafa9c12a6348435946c694c7c"
+    },
+    "editorial/media/publisher/bfg-field/fan-hub.webp": {
+      "sha256": "9bd9294ad43dcf58850096efae2918487710a2dd3f36203775534c8941889fba",
+      "git_blob_sha": "6cf9e00b90e834d1260158a09cd61706d8fee786"
+    },
+    "editorial/media/publisher/taz-72/taz-72-field-02.webp": {
+      "sha256": "5e30eb8ee728ab53a4ff891fadd2b0da1c4dd2f8e0a0ca3bf6d9c9b473e9266b",
+      "git_blob_sha": "0867f6dd0d8cabc34adf329bc2ca2099b32b94fd"
+    },
+    "editorial/media/publisher/bfg-field/production-floor.webp": {
+      "sha256": "71f8b297ffecb4480d576ec402f8cf66d8a3040e45f429f7b2fc7b0ef672e986",
+      "git_blob_sha": "f2c66e221a23aa2762e4e029299dc50947ea4f10"
+    },
+    "editorial/media/publisher/bfg-field/hangar-airflow-context.webp": {
+      "sha256": "37e0f8571a0ee964d842ccd9d589cdfa85dce3fb1347ee5e13f7b7fb65d57d7c",
+      "git_blob_sha": "d5f951013b66deb9d68b55d8b13f2008679ddaaa"
+    },
+    "editorial/media/publisher/bfg-field/elevated-install.webp": {
+      "sha256": "c4fc16954e8c927b861dad57279c2730cfc75cb0cb700b68df9037193be5987c",
+      "git_blob_sha": "b8709b62426bc95144352e50e71f9bb7ed4e374e"
+    },
+    "editorial/media/publisher/taz-72/taz-72-field-03.webp": {
+      "sha256": "2070b5bc45c474b067ea5c4436a77ec8b46bc3bebb235e3a340419e3c44d04e3",
+      "git_blob_sha": "60c89b4ec2587340c8efa14714fad5398a06eac9",
+      "acceptance": "source_and_responsive_visual_review",
+      "evidence": "editorial/media/TAZ-SECOND-PHOTO-HANDOFF.json"
+    },
+    "editorial/media/publisher/production-96/controls-context.webp": {
+      "sha256": "a6011124f79cce789b4f056ecdb6a73bbd2755df5de904e26e2bfe7f9a788e4d",
+      "git_blob_sha": "054ccdf263b294342f12c8a831002a58b99fb807",
+      "outcome": "rejected_for_invertek_e4_story"
+    },
+    "art-library/uploads/invertek-optidrive-eco/IMG_5849.jpeg": {
+      "sha256": "8df98899ae234fb91f264ca24280cfb7aeeabc58603f4d6460b3ae17bcf12cd4",
+      "git_blob_sha": "cb6989397b1fc1b6fb085d930bb216134c0ab085",
+      "outcome": "Optidrive ECO identified; library reserve, no article selection"
+    },
+    "editorial/media/publisher/production-96/e4-workbench.webp": {
+      "sha256": "ab858f1504c8a1bbc381f0376b04c9527a1dcf406fc3c09a5d6c0e5da5174cc2",
+      "git_blob_sha": "b7205285671ff50ad45f566e792b9ad88dbfe4fc",
+      "source_sha256": "0f39222428e299cf1eec3ab499836e16da80dc7fe3b2e353ea11d0dab2b3fa4b",
+      "outcome": "Actual source and all six deployed card/article frames viewed; complete bounds/contain accepted"
+    }
+  },
+  "selected_review": "editorial/media/CROP-REVIEW-2026-11-11.md",
+  "selected_review_basis_commit": "69359b06b653dba1019fae8ca1f3c7baee7dd4a2",
+  "visual_acceptance_basis": "Existing ten exact asset hashes unchanged; independently viewed field-03 source and actual deployed responsive frames for new contextual placement. See TAZ handoff for exact geometry and scope. No physical iPhone claim.",
+  "verification": {
+    "selected_stories": 12,
+    "public_research_placements": 6,
+    "original_ten_asset_git_blobs_unchanged": true,
+    "additional_selected_asset_sha256": "2070b5bc45c474b067ea5c4436a77ec8b46bc3bebb235e3a340419e3c44d04e3",
+    "new_upload_images": 0,
+    "manuscript_and_original_eight_approval_bytes_preserved": true,
+    "python_tests": 208,
+    "javascript_suites": 7,
+    "pr_checks": "2/2 success",
+    "pages": "success",
+    "source_review": {
+      "source_revision": "176181ae86e456f7bd369a7f3085c4df65599b8a",
+      "pr": 147,
+      "pages_run": 43130101206,
+      "proof_url": "https://thefanguys.github.io/HVLS-360/office/context-photo-proof.html?v=art-147",
+      "frame_widths": [
+        390,
+        768,
+        1280
+      ],
+      "effective_widths": [
+        375,
+        753,
+        1265
+      ],
+      "rendered_sizes": [
+        [
+          331,
+          441.328125
+        ],
+        [
+          709,
+          945.328125
+        ],
+        [
+          806,
+          1074.65625
+        ]
+      ],
+      "source_dimensions": [
+        1152,
+        1536
+      ],
+      "fit": "contain",
+      "loaded_frames": 3,
+      "horizontal_overflow_frames": 0,
+      "duplicate_context_images": 0,
+      "live_manuscript_blob": "d3161b34d449851eea679e7deb4c096498c48af0",
+      "visual_result": "Viewed actual rendered phone image and tablet/desktop upper and lower source bounds/captions. Suspended housing, louvers, guard, chains and work-floor context retained; no crop; natural aspect ratio. Current saved-text refresh retains exactly one contextual image after the descriptive paragraph.",
+      "physical_device_test": false
+    }
+  },
+  "blockers": [
+    {
+      "scope": "CFEI image suitability and portrait landscape cards",
+      "reason": "Founder rejection and operations-first deferral recorded in main 348ae332279dcfb753bd2595c3f0fdb7b7bb63f6; follow-up belongs to Content/Art after operational completion.",
+      "action": "Do not treat historic crop acceptance as current editorial suitability or change manuscripts."
+    }
+  ],
+  "remaining_separate_work": [
+    "Founder-deferred image suitability and content-angle corrections remain recorded; four new text decisions and release execution remain separate.",
+    "Website direct authenticated/device acceptance and other running category work are not completed by this image handoff."
+  ],
+  "next_run": "Compare against last_attempt_commit for same blocked revision; suppress repeated writes/comments if unchanged. Never advance last_successful_commit until responsive review completes. Fixture unchanged completed digest remains suppressed.",
+  "source_inventory_git_blobs": {
+    "art-library/catalog.json": "bee7dea83885643fdf53b0a067b98965054abe6c",
+    "assets/publication.css": "a7fd92383d7ec6cee4977a625a07e701fd8416c8",
+    "assets/style.css": "20d385efd56bab1c8a545868fca9de9e5682f5ba",
+    "editorial/drafts/abb-2026-ip66-vfd-field-report.md": "39f89364c20c005328e7512104d1ff0409249a2d",
+    "editorial/drafts/ceiling-fans-hvac-air-distribution-research.md": "8adc68d2976a07a3600e562bb02a8f6559a07e36",
+    "editorial/drafts/cfei-vs-cfm-per-watt-field-guide.md": "f6f44273189a16a8ab5b3fd52660d637d5bab776",
+    "editorial/drafts/fan-guarding-working-level.md": "abea3cfc0ced81418e93dcae7e0439caac6f9476",
+    "editorial/drafts/greenheck-ds-series-2026-field-report.md": "45e2e7bf69dba8edd3289239ff79ffe62cacbfd5",
+    "editorial/drafts/hvls-air-movement-vs-ventilation.md": "e0d72e2c15c20f49803d63068c0b924e11873f78",
+    "editorial/drafts/industrial-fan-heat-study-what-was-measured.md": "d4aeffa5d6f1b92d5c7083ec6136bb2a55216971",
+    "editorial/drafts/powerfoil6-field-brief.md": "8fe289ff0c787de344609638bfd1a672a25138fd",
+    "editorial/drafts/scissor-lift-osha-classification.md": "4a1a715624a7aa063ab5e50b6a8256418725572b",
+    "editorial/drafts/scissor-lift-planning-hvls-installations.md": "7b564de60688042ee3974436cb9e14a0d54eab31",
+    "editorial/drafts/vividair-gfy-ztech-taz-controls-field-guide.md": "5ccfd5784d9d1aabae314f111535fab926099d3f",
+    "editorial/drafts/vividair-taz-72-field-guide.md": "d3161b34d449851eea679e7deb4c096498c48af0",
+    "editorial/founder-approval-register.json": "5fe989e4d89433e2e33133064b318873b49aa2af",
+    "editorial/media/article-images.json": "766a71d9ca669a2177592ab7de7087a94f474c51"
+  },
+  "source_library_tree_sha": "b8cb0b118edf428ef44e51c1ac66194567451a66",
+  "checked_source_commit": "fad9718fc58313eb98e262517e53f43c955631ff",
+  "review_scope": "Exact comparison f9d5071..fad9718: acceptance/provenance/status records only; no new articles/uploads/assets/captions/mappings/layout. 14 asset hashes match. This scheduled run independently inspected fixture source and six responsive frames.",
+  "remaining_blockers": [
+    "New public homepage/eight article pages and PR180 selections require separate390/768/1280 card/article visual acceptance. Cloud browser exposes no viewport resize; data-URL diagnostic page rejected by URL security policy. No bypass attempted. Website/Art receiving owner should provide an approved HTTPS responsive proof or supported viewport tool. Desktop CFEI page only was viewed, not full responsive acceptance."
+  ],
+  "worker_acceptance": {
+    "input_sha256": "450746b53c55c588ccd483d8bb9c6722e1392d96dc38ec9f2073f2a3847c1b0f",
+    "result_path": "office/worker-acceptance/art-director/result.json",
+    "status": "completed",
+    "fixture_revision": 2,
+    "quiet_repeat": "pending actual later run"
+  },
+  "last_attempt_commit": "03d0a3f9742bc81c76404a2dcf499362badb3fe6",
+  "last_attempt_review": "editorial/media/ART-REVIEW-2026-11-12.json"
+}

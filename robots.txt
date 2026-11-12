@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bigfanguys.com/sitemap.xml
+Sitemap: https://bigfanguys.com/hvls-360/sitemap.xml
