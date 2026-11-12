@@ -3,7 +3,7 @@ name: Sync HVLS 360
 # so it is served at https://bigfanguys.com/hvls-360/.
 on:
   schedule:
-    - cron: '17 * * * *'   # every hour
+    - cron: '*/15 * * * *'   # every 15 minutes
   workflow_dispatch:
 permissions:
   contents: write
